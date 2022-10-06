@@ -11,6 +11,7 @@ Start a terminal and run the following command.
     $ export TWILIO_TO=+31624...
   ```
 2. Test that Node.js is installed correctly
-**Note:** You can 
+
+   **Note:** You can 
 
 3. Get the code from github onto the Jetson Nano
